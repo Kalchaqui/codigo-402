@@ -13,3 +13,6 @@ x402 with example PRIMERPAGO
 - Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
 - Pago del agente a mi API: 75b321686765efb4e7f470dfba54d0baa944ebb4fb24a907986043b7d4b3e9fc
 - Verlo: https://stellar.expert/explorer/testnet/tx/75b321686765efb4e7f470dfba54d0baa944ebb4fb24a907986043b7d4b3e9fc
+
+## Mi verificador
+- Pago que verifiqué con RPC: 73bc5a8990cf05a7cb1425691eb51c8c308524b08938d1d863f46873ce7aad77
